@@ -1,0 +1,2 @@
+rootProject.name='cs125 Final Project Class Dist'
+include ':app'
